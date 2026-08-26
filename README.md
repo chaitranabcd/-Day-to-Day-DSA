@@ -7,6 +7,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ my Leetcode work
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 ## String
@@ -39,4 +41,8 @@ my Leetcode work
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
