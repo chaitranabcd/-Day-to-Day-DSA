@@ -22,6 +22,7 @@ my Leetcode work
 | ------- |
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -31,6 +32,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -46,4 +48,8 @@ my Leetcode work
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
