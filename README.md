@@ -59,6 +59,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -67,6 +68,7 @@ my Leetcode work
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
