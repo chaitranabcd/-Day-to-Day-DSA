@@ -52,4 +52,12 @@ my Leetcode work
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
