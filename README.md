@@ -45,6 +45,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
