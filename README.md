@@ -20,6 +20,7 @@ my Leetcode work
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
@@ -43,6 +44,7 @@ my Leetcode work
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
@@ -55,6 +57,7 @@ my Leetcode work
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
