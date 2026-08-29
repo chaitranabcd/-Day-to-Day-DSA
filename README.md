@@ -25,6 +25,7 @@ my Leetcode work
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0445-add-two-numbers-ii) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ my Leetcode work
 | [0160-intersection-of-two-linked-lists](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -86,4 +88,8 @@ my Leetcode work
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
