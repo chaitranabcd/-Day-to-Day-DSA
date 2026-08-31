@@ -8,6 +8,7 @@ my Leetcode work
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Binary Search
 |  |
@@ -92,4 +93,8 @@ my Leetcode work
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0445-add-two-numbers-ii) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
