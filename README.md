@@ -7,6 +7,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -75,6 +76,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0876-middle-of-the-linked-list) |
