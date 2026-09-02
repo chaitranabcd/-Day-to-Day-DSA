@@ -11,6 +11,7 @@ my Leetcode work
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ my Leetcode work
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0445-add-two-numbers-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
