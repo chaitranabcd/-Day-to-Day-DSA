@@ -9,6 +9,7 @@ my Leetcode work
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
+| [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -41,6 +42,7 @@ my Leetcode work
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1009-complement-of-base-10-integer) |
+| [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
