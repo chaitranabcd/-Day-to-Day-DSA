@@ -37,6 +37,7 @@ my Leetcode work
 | ------- |
 | [0058-length-of-last-word](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
+| [0771-jewels-and-stones](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0771-jewels-and-stones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ my Leetcode work
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0771-jewels-and-stones](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0771-jewels-and-stones) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
