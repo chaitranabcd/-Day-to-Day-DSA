@@ -46,6 +46,7 @@ my Leetcode work
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
