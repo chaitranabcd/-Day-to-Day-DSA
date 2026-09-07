@@ -44,6 +44,7 @@ my Leetcode work
 | ------- |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
+| [0338-counting-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -109,4 +110,8 @@ my Leetcode work
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
