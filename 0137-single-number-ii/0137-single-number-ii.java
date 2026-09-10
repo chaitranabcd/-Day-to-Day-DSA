@@ -39,16 +39,27 @@ class Solution {
         // return ans;
 
 
+        // int n = nums.length;
+        // Arrays.sort(nums);
+        // for(int i = 1 ; i < n ; i+=3)
+        // {
+        //     if(nums[i] != nums[i-1])
+        //     {
+        //         return nums[i-1];
+        //     }
+        // }
+        // return nums[n-1];
+
+
+        int ones = 0;
+        int twos = 0;
         int n = nums.length;
-        Arrays.sort(nums);
-        for(int i = 1 ; i < n ; i+=3)
+        for(int i = 0 ; i < n ; i++)
         {
-            if(nums[i] != nums[i-1])
-            {
-                return nums[i-1];
-            }
+            ones = (ones ^ nums[i]) & ~(twos);
+            twos = (twos ^ nums[i]) & ~(ones);
         }
-        return nums[n-1];
+        return ones;
     }
 
 
