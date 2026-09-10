@@ -19,24 +19,36 @@ class Solution {
         // }
         // return 0;
 
+        // int n = nums.length;
+        // int ans = 0;
+        // for(int num = 0 ; num < 32 ; num++)
+        // {
+        //     int cnt = 0;
+        //     for(int i = 0 ; i <  n ;i++)
+        //     {
+        //         if((nums[i] & (1<<num)) != 0)
+        //         {
+        //             cnt++;
+        //         }
+        //     }
+        //     if(cnt%3==1)
+        //     {
+        //         ans = ans | (1<<num);
+        //     }
+        // }
+        // return ans;
+
+
         int n = nums.length;
-        int ans = 0;
-        for(int num = 0 ; num < 32 ; num++)
+        Arrays.sort(nums);
+        for(int i = 1 ; i < n ; i+=3)
         {
-            int cnt = 0;
-            for(int i = 0 ; i <  n ;i++)
+            if(nums[i] != nums[i-1])
             {
-                if((nums[i] & (1<<num)) != 0)
-                {
-                    cnt++;
-                }
-            }
-            if(cnt%3==1)
-            {
-                ans = ans | (1<<num);
+                return nums[i-1];
             }
         }
-        return ans;
+        return nums[n-1];
     }
 
 
