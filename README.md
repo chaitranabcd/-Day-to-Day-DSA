@@ -55,6 +55,7 @@ my Leetcode work
 | [1486-xor-operation-in-an-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -119,4 +120,9 @@ my Leetcode work
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0338-counting-bits) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
