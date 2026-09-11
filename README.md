@@ -47,6 +47,7 @@ my Leetcode work
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0342-power-of-four) |
