@@ -11,25 +11,18 @@
 class Solution {
     public ListNode reverseList(ListNode head) 
     {
-        ListNode pervious = null;
+        ListNode perv = null;
         ListNode curr = head;
         ListNode next = null;
-        while(curr != null)
+
+        while(curr!=null)
         {
             next = curr.next;
-            curr.next = pervious;
-            pervious = curr;
+            curr.next = perv;
+            perv = curr;
             curr = next;
-        }
-        head = pervious;
-
-        ListNode x = head;
-
-        while(x!=null)
-        {
-            System.out.print(x.val + "<-");
-            x = x.next;
-        }
-        return head;
+        } 
+        head = perv;
+        return head; 
     }
 }
