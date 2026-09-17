@@ -14,6 +14,7 @@ my Leetcode work
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -60,6 +61,7 @@ my Leetcode work
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
