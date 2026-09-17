@@ -11,6 +11,7 @@ my Leetcode work
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [0137-single-number-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0260-single-number-iii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -56,6 +57,7 @@ my Leetcode work
 | [0461-hamming-distance](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1009-complement-of-base-10-integer) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1720-decode-xored-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -129,4 +131,12 @@ my Leetcode work
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
