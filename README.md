@@ -27,6 +27,7 @@ my Leetcode work
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
@@ -44,6 +45,7 @@ my Leetcode work
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/chaitranabcd/-Day-to-Day-DSA/tree/master/0137-single-number-ii) |
